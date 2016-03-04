@@ -18,7 +18,7 @@
 
 	<div id = "footer">
 		<div id = "footer_text">
-			<b>For details please contact Infra ASD team</b>
+			<b>For details please contact Infra ASD team </b>
 		</div>
 	</div>
 
