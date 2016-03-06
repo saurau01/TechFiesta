@@ -1,5 +1,4 @@
 <html>
-
 <head>
 <title> Tech Fiesta </title>
 <link rel="stylesheet" type="css/text" href="css/index.css">
