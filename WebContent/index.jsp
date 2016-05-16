@@ -13,7 +13,7 @@
 
 	<img id = "id_img" src="img/logo.JPG"/>
 
-	<div id="body_text"> <b>This is the demo page to showcase One Click Deployment for Rishi Ranjan </b></div>
+	<div id="body_text"> <b>This is the demo page to show case One Click Deployment for Rishi Ranjan </b></div>
 
 	<div id = "footer">
 		<div id = "footer_text">
